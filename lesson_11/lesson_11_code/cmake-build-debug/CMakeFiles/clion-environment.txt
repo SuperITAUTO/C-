@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@D:\Software_on_Disk_D\qt_2018_12-29\Tools\mingw730_64
+Options: 
+
+Options:

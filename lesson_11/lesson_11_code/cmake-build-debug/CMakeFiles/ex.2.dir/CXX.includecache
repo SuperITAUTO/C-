@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_11/lesson_11_code/lesson_11_2.cpp
+stdio.h
+-
+malloc.h
+-
+

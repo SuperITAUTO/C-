@@ -1,0 +1,7 @@
+H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_8/lesson_8_code/cmake-build-debug/CMakeFiles/ex.1.dir
+H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_8/lesson_8_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_8/lesson_8_code/cmake-build-debug/CMakeFiles/ex.2.dir
+H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_8/lesson_8_code/cmake-build-debug/CMakeFiles/ex.3.dir
+H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_8/lesson_8_code/cmake-build-debug/CMakeFiles/ex.4.dir
+H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_8/lesson_8_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_8/lesson_8_code/cmake-build-debug/CMakeFiles/ex.5.dir
