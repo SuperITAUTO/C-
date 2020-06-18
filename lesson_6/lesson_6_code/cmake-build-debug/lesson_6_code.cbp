@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug"/>
+				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ex.1">
-				<Option output="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/ex.1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug"/>
+				<Option output="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/ex.1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex.1"/>
-					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex.1"/>
+					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ex.1/fast">
-				<Option output="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/ex.1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug"/>
+				<Option output="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/ex.1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,25 +53,25 @@
 					<Add directory="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex.1/fast"/>
-					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex.1/fast"/>
+					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug"/>
+				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ex.2">
-				<Option output="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/ex.2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug"/>
+				<Option output="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/ex.2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -84,15 +84,15 @@
 					<Add directory="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex.2"/>
-					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex.2"/>
+					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ex.2/fast">
-				<Option output="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/ex.2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug"/>
+				<Option output="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/ex.2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -105,30 +105,30 @@
 					<Add directory="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex.2/fast"/>
-					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex.2/fast"/>
+					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug"/>
+				<Option working_dir="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/lesson_6_1.cpp">
+		<Unit filename="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/lesson_6_1.cpp">
 			<Option target="ex.1"/>
 		</Unit>
-		<Unit filename="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/lesson_6_2.cpp">
+		<Unit filename="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/lesson_6_2.cpp">
 			<Option target="ex.2"/>
 		</Unit>
-		<Unit filename="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/CMakeLists.txt">
+		<Unit filename="H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

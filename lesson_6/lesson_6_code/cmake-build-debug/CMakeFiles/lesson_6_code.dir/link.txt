@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\lesson_6_code.dir/objects.a
-D:\Software_on_Disk_D\qt_2018_12-29\Tools\mingw730_64\bin\ar.exe cr CMakeFiles\lesson_6_code.dir/objects.a @CMakeFiles\lesson_6_code.dir\objects1.rsp
-D:\Software_on_Disk_D\qt_2018_12-29\Tools\mingw730_64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\lesson_6_code.dir/objects.a -Wl,--no-whole-archive  -o lesson_6_code.exe -Wl,--out-implib,liblesson_6_code.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lesson_6_code.dir\linklibs.rsp

@@ -1,4 +1,18 @@
-"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" H:\Programming\Source_code\Source_code_C\C_code_teacher_haobin\lesson_6\lesson_6_code
+D:\Software_on_Disk_D\CLion-2020.1.1.win\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" H:\Programming\Source_code\Source_code_C\C_code_teacher_haobin\C_training\lesson_6\lesson_6_code
+-- The C compiler identification is GNU 7.3.0
+-- The CXX compiler identification is GNU 7.3.0
+-- Check for working C compiler: D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/gcc.exe
+-- Check for working C compiler: D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/g++.exe
+-- Check for working CXX compiler: D:/Software_on_Disk_D/qt_2018_12-29/Tools/mingw730_64/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_6/lesson_6_code/cmake-build-debug
+-- Build files have been written to: H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_6/lesson_6_code/cmake-build-debug

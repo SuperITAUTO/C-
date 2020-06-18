@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ex.1.dir/插入节点.c.obj"
-  "ex.1.pdb"
   "ex.1.exe"
   "ex.1.exe.manifest"
+  "ex.1.pdb"
   "libex.1.dll.a"
 )
 

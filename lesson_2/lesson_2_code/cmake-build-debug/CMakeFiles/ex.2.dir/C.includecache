@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_2/lesson_2_code/code_2_2.c
+stdio.h
+-
+

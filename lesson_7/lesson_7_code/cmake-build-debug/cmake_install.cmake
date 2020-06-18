@@ -1,4 +1,4 @@
-# Install script for directory: H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_7/lesson_7_code
+# Install script for directory: H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_7/lesson_7_code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_7/lesson_7_code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_7/lesson_7_code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_7/lesson_7_code/lesson_7_1.cpp" "H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_7/lesson_7_code/cmake-build-debug/CMakeFiles/ex.1.dir/lesson_7_1.cpp.obj"
+  "H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_7/lesson_7_code/lesson_7_1.cpp" "H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_7/lesson_7_code/cmake-build-debug/CMakeFiles/ex.1.dir/lesson_7_1.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

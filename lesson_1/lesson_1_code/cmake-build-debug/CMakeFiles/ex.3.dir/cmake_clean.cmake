@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ex.3.dir/code_1_3.c.obj"
-  "ex.3.pdb"
   "ex.3.exe"
   "ex.3.exe.manifest"
+  "ex.3.pdb"
   "libex.3.dll.a"
 )
 

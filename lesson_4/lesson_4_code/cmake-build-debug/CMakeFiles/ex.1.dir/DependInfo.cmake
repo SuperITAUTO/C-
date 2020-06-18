@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_4/lesson_4_code/插入节点.c" "H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/lesson_4/lesson_4_code/cmake-build-debug/CMakeFiles/ex.1.dir/插入节点.c.obj"
+  "H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_4/lesson_4_code/插入节点.c" "H:/Programming/Source_code/Source_code_C/C_code_teacher_haobin/C_training/lesson_4/lesson_4_code/cmake-build-debug/CMakeFiles/ex.1.dir/插入节点.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

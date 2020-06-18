@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ex.9.dir/code_2_9.c.obj"
-  "ex.9.pdb"
   "ex.9.exe"
   "ex.9.exe.manifest"
+  "ex.9.pdb"
   "libex.9.dll.a"
 )
 

@@ -31,6 +31,5 @@ int main(void)
 	struct Student * pst;
 	pst = &st;
 	pst->sid = 99;  //第二种方式  pst->sid 等价于 (*pst).sid  而(*pst).sid等价于 st.sid,  所以pst->sid 等价于 st.sid
-
 	return 0;
 }
